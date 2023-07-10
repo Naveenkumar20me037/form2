@@ -1,0 +1,92 @@
+
+.border{
+    background-color: white;
+    transform: scale(1.4);
+
+}
+.border1{
+    zoom: normal;
+    width: 1500px;
+    height: 1200px;
+    border: double black;
+    padding: 10px;
+    margin-top: 300px;
+    margin-left: 200px;
+    background-color: gray;
+    color: rgb(230, 221, 221);
+    position: relative;
+}
+
+#fname{
+    /* text-align: center; */
+    width: 220px;
+    height: 30px;
+    margin-left: -300px;
+    font-size: 20px;
+    box-shadow: 10px 6px ;
+    position: absolute;  
+}
+#sname{
+    /* text-align: center; */
+    width: 220px;
+    height: 30px;
+    margin-left: 65px;
+    font-size: 20px;
+    box-shadow: 10px 6px ;
+    position:absolute;   
+}
+#username{
+    /* text-align: center; */
+    width: 590px;
+    height: 30px;
+    margin-left: 64px;
+    font-size: 20px;
+    box-shadow: 10px 6px ;
+    position:absolute;   
+}
+.image1{
+    margin-top: 100px;
+    margin-left: -800px;
+}
+#Email{
+    width: 590px;
+    height: 30px;
+    margin-left: 64px;
+    font-size: 20px;
+    box-shadow: 10px 6px ;
+    position:absolute;
+}
+
+#phno{
+    width: 590px;
+    height: 30px;
+    margin-left: 64px;
+    font-size: 20px;
+    box-shadow: 10px 6px ;
+    position:absolute;
+}
+
+#password{
+    width: 590px;
+    height: 30px;
+    margin-left: 64px;
+    font-size: 20px;
+    box-shadow: 10px 6px ;
+    position:absolute;
+}
+#cpassword{
+    width: 590px;
+    height: 30px;
+    margin-left: 64px;
+    font-size: 20px;
+    box-shadow: 10px 6px ;
+    position:absolute;
+}
+
+#submit{
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    box-shadow: 10px 6px ;
+    
+}
